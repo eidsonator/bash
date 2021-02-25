@@ -1,3 +1,3 @@
 # bash
 
-Just a playground for bash syntax
+Just a playground for bash syntax.
